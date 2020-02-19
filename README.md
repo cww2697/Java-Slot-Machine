@@ -1,4 +1,4 @@
-# Slot Machine Program
+# Java Slot Machine
 
 Author: Cody West
 Last Updated: 12/10/2019
