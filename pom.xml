@@ -1,0 +1,7 @@
+<project>
+  <modelVersion>1.0.0</modelVersion>
+ 
+  <groupId>net.cwmediagroup.app</groupId>
+  <artifactId>Java Slot Machine</artifactId>
+  <version>1</version>
+</project>
